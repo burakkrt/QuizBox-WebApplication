@@ -8,12 +8,10 @@ bulunan Javascript tabanlı bir web uygulaması.
 <img src="screenshootApp0.png" 
         alt="Picture" 
         width="50%" 
-        height="" 
-        style="display: inline-block; margin: 0 auto" />
+        style="display: block; margin: 0 auto" />
 <img src="screenshootApp1.png" 
         alt="Picture" 
-        width="200" 
-        height="200" 
+        width="50%" 
         style="display: block; margin: 0 auto" />
 ## Kullanılan Teknolojiler
 - HTML
