@@ -9,12 +9,11 @@ bulunan Javascript tabanlı bir web uygulaması.
 
 <img src="screenshootApp0.png" 
         alt="QuizBox 'dan ekran görüntüsü" 
-        style="display: block; margin: 0 auto" />
+        style="" />
+</p>
 <img src="screenshootApp1.png" 
         alt="QuizBox 'dan ekran görüntüsü" 
         style="display: block; margin: 0 auto" />
-        
-</p>
 ## Kullanılan Teknolojiler
 - HTML
 - CSS
