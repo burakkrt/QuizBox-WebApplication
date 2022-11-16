@@ -7,8 +7,8 @@ bulunan Javascript tabanlı bir web uygulaması.
 ## Projeden Görüntüler
 <img src="screenshootApp0.png" 
         alt="Picture" 
-        width="200" 
-        height="200" 
+        width="50%" 
+        height="" 
         style="display: inline-block; margin: 0 auto" />
 <img src="screenshootApp1.png" 
         alt="Picture" 
