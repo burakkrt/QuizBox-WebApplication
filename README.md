@@ -9,7 +9,7 @@ bulunan Javascript tabanlı bir web uygulaması.
         alt="Picture" 
         width="200" 
         height="200" 
-        style="display: block; margin: 0 auto" />
+        style="display: inline-block; margin: 0 auto" />
 <img src="screenshootApp1.png" 
         alt="Picture" 
         width="200" 
