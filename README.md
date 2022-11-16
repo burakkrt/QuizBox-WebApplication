@@ -10,8 +10,11 @@ bulunan Javascript tabanlı bir web uygulaması.
         width="200" 
         height="200" 
         style="display: block; margin: 0 auto" />
-![QuizBox Projesinden Bir Görüntü](screenshootApp0.png)
-![QuizBox Projesinden Bir Görüntü](screenshootApp1.png)
+<img src="screenshootApp1.png" 
+        alt="Picture" 
+        width="200" 
+        height="200" 
+        style="display: block; margin: 0 auto" />
 ## Kullanılan Teknolojiler
 - HTML
 - CSS
