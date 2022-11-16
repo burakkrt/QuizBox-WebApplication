@@ -6,7 +6,7 @@ bulunan Javascript tabanlı bir web uygulaması.
 > OOP tekniğini geliştirmek amacı ile proje oluşturulmuştur.
 ## Projeden Görüntüler
 
-<img src="screenshootApp0.png" alt="QuizBox 'dan ekran görüntüsü" width="100%" style="display:block; margin: 0 auto;"/>
+<img src="screenshootApp0.png" alt="QuizBox 'dan ekran görüntüsü" width="50%" style="display:block; margin: 0 auto;"/>
 <img src="screenshootApp1.png" alt="QuizBox 'dan ekran görüntüsü" />
 
 ## Kullanılan Teknolojiler
