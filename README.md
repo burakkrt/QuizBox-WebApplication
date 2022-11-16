@@ -7,11 +7,11 @@ bulunan Javascript tabanlı bir web uygulaması.
 ## Projeden Görüntüler
 <img src="screenshootApp0.png" 
         alt="Picture" 
-        width="50%" 
+        width="47%" 
         style="display: block; margin: 0 auto" />
 <img src="screenshootApp1.png" 
         alt="Picture" 
-        width="50%" 
+        width="47%" 
         style="display: block; margin: 0 auto" />
 ## Kullanılan Teknolojiler
 - HTML
