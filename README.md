@@ -5,8 +5,7 @@ bulunan Javascript tabanlı bir web uygulaması.
 > Bu projede **Object Oriented Programming (OOP)** tekniği kullanılmıştır.
 > OOP tekniğini geliştirmek amacı ile proje oluşturulmuştur.
 ## Projeden Görüntüler
-<p align="center">
-
+<p align="center" width="100%">
 <img src="screenshootApp0.png" 
         alt="QuizBox 'dan ekran görüntüsü" 
         style="" />
