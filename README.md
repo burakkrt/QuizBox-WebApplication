@@ -6,13 +6,11 @@ bulunan Javascript tabanlı bir web uygulaması.
 > OOP tekniğini geliştirmek amacı ile proje oluşturulmuştur.
 ## Projeden Görüntüler
 <img src="screenshootApp0.png" 
-        alt="Picture" 
-        width="47%" 
+        alt="QuizBox 'dan ekran görüntüsü" 
         style="display: block; margin: 0 auto" />
 <img src="screenshootApp1.png" 
-        alt="Picture" 
-        width="47%" 
-        style="display: block; margin: 0 auto" />
+        alt="QuizBox 'dan ekran görüntüsü" 
+        style="display: block; text-align:center; />
 ## Kullanılan Teknolojiler
 - HTML
 - CSS
