@@ -7,7 +7,6 @@ bulunan Javascript tabanlı bir web uygulaması.
 ## Projeden Görüntüler
 <img src="screenshootApp0.png" 
         alt="QuizBox 'dan ekran görüntüsü" 
-        width:"100%"
         style="display: block; margin: 0 auto" />
 <img src="screenshootApp1.png" 
         alt="QuizBox 'dan ekran görüntüsü" 
