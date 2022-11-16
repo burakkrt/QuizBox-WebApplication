@@ -4,7 +4,7 @@ Web tabanlı sorular çözüp kullanıcıların kendilerini sınayabileceği 4 �
 bulunan Javascript tabanlı bir web uygulaması.
 > Bu projede **Object Oriented Programming (OOP)** tekniği kullanılmıştır.
 > OOP tekniğini geliştirmek amacı ile proje oluşturulmuştur.
-### Live : [QuizBoxWebsite](https://quizbox12.netlify.app){:target="_blank"}
+### Live : [QuizBoxWebsite](https://quizbox12.netlify.app){target="_blank"}
 ## Projeden Görüntüler
 ![QuizBox Projesinden Bir Görüntü](screenshootApp0.png)
 ![QuizBox Projesinden Bir Görüntü](screenshootApp1.png)
